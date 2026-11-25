@@ -1,11 +1,10 @@
 # 鹅源黑体 / 鹅源宋体（Goose Han Sans / Goose Han Serif）
 
-两款由开源字体合并修改而成的字体
+两款由开源字体合并修改而成的字体。
 
 Goose Han Sans（鹅源黑体）：9字重
-Goose Han Serif（鹅源宋体）：7字重
 
-下载：见 [Releases](https://github.com/Goose-Gusi/goose-han-fonts/releases)，两族各一个压缩包，内含对应字重与 OFL.txt。
+Goose Han Serif（鹅源宋体）：7字重
 
 ## 来源
 
