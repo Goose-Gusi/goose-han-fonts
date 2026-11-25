@@ -1,13 +1,11 @@
 # 鹅源黑体 / 鹅源宋体（Goose Han Sans / Goose Han Serif）
 
-两款由开源字体合并修改而成的 CJK 字体，以 SIL Open Font License 1.1 发布。
+两款由开源字体合并修改而成的字体
 
-| 字体 | 字重 |
-| --- | --- |
-| Goose Han Sans（鹅源黑体） | Thin、ExtraLight、Light、Regular、Medium、SemiBold、Bold、ExtraBold、Black（9 款） |
-| Goose Han Serif（鹅源宋体） | ExtraLight、Light、Regular、Medium、SemiBold、Bold、ExtraBold（7 款） |
+Goose Han Sans（鹅源黑体）：9字重
+Goose Han Serif（鹅源宋体）：7字重
 
-字体内部版本号：`Version 1.001`。
+下载：见 [Releases](https://github.com/Goose-Gusi/goose-han-fonts/releases)，两族各一个压缩包，内含对应字重与 OFL.txt。
 
 ## 来源
 
